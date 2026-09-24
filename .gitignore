@@ -1,0 +1,9 @@
+# Proteus / project files
+*.pdsbak
+*.workspace
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
